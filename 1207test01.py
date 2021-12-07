@@ -1,1 +1,0 @@
-print ('fuckXXXX the source')
